@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800;900&display=swap');
 
 body {
-    background-color: #1b1b1b;
+    background-color: #F08000;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -59,7 +59,7 @@ nav h1 {
 }
  
 .search input {
-    background-color: #222222;
+    background-color: #F08000;
     border: none;
     border-radius: 1vw 0 0 1vw;
     color: #fff;
